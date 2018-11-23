@@ -3,7 +3,13 @@ channels:
   - conda-forge
 dependencies:
   - python=2.7
+  - python=3.6
   - pip:
+    - lxml
+    - html5lib
+    - BeautifulSoup4
+    - requests
+  - pip3:
     - lxml
     - html5lib
     - BeautifulSoup4
