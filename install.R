@@ -1,3 +1,6 @@
+install.packages("rmarkdown")
+install.packages("httr")
+install.packages('leaflet')
 install.packages("tidyverse")
 install.packages("xml2")
-install.packages('rvest')
+install.packages("rvest")
