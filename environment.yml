@@ -1,0 +1,10 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - python2.7
+  - pip:
+    - lxml
+    - html5lib
+    - BeautifulSoup4
+    - requests
