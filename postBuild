@@ -1,4 +1,0 @@
-#!/bin/bash
-
-conda create -n py27 python=2.7 ipykernel lxml html5lib BeautifulSoup4 requests
-conda create -n py36 python=3.6 ipykernel lxml html5lib BeautifulSoup4 requests
